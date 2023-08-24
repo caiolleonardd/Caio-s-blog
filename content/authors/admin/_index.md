@@ -1,7 +1,7 @@
 ---
 # Display name
-title: 吳恩達
-name_pronunciation: Wu En da
+title: Caio Leonardo
+#name_pronunciation: Wu En da
 
 # Is this the primary user of the site?
 superuser: true
@@ -31,7 +31,7 @@ social:
     link: 'mailto:test@example.org'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/wowchemy
+    link: https://twitter.com/CaioLeonar
   - icon: instagram
     icon_pack: fab
     link: https://www.instagram.com/spacex/
